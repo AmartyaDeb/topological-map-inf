@@ -1,6 +1,4 @@
-# topological-map-inf
-Procedurally generated infinite topological map background
-# Topographic Dream
+# Topographic Map Inf
 
 A procedurally generated, infinitely scrolling topographic landscape for the browser.
 
